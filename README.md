@@ -32,4 +32,4 @@ First, I transformed the categorical variables into dummy variables. I also spli
 I tried Logistic Regression with Grid Search and evaluated them using AUC(Area Under the Curve). This evaluator calculates the area under the ROC. This is a metric that combines the two kinds of errors a binary classifier can make (false positives and false negatives) into a simple number.
 
 I tried param grid builder for hyperparameter tuning. 
-Got a model with an accuracy of close t0 70%
+Got a model with an accuracy of close to 70%
